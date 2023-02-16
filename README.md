@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a blog for a client. I am currently learning React
+My name is Erik and I am software engineer based in the Seattle area. I'm familiar with full-stack development but am more focused on the frontend.
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@ I am currently working on a blog for a client. I am currently learning React
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=escheive&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=EScheive)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
