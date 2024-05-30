@@ -1,6 +1,9 @@
 # 💫 About Me:
 My name is Erik and I am software engineer based in the Seattle area. I'm familiar with full-stack development but am more focused on the frontend. I'm currently developing a pokemon app for Android and ios in my free time.
 
+# Check out my portfolio site here: https://escheive.github.io/portfolio/
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erikscheive/) 
